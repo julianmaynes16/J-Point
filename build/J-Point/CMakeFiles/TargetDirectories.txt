@@ -1,0 +1,9 @@
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/uninstall.dir
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/J-Point_uninstall.dir
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/test.dir
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/edit_cache.dir
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/rebuild_cache.dir
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/list_install_components.dir
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/install.dir
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/install/local.dir
+/home/julian/Documents/J-Point/build/J-Point/CMakeFiles/install/strip.dir

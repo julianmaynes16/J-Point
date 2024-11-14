@@ -1,0 +1,4 @@
+source;share/J-Point/local_setup.bash
+source;share/J-Point/local_setup.dsv
+source;share/J-Point/local_setup.sh
+source;share/J-Point/local_setup.zsh

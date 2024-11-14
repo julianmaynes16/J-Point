@@ -1,0 +1,6 @@
+Invoking command in '/home/julian/Documents/J-Point/build/J-Point': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/julian/Documents/J-Point/src/J-Point -DCMAKE_INSTALL_PREFIX=/home/julian/Documents/J-Point/install/J-Point
+Invoked command in '/home/julian/Documents/J-Point/build/J-Point' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/julian/Documents/J-Point/src/J-Point -DCMAKE_INSTALL_PREFIX=/home/julian/Documents/J-Point/install/J-Point
+Invoking command in '/home/julian/Documents/J-Point/build/J-Point': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/julian/Documents/J-Point/build/J-Point -- -j12 -l12
+Invoked command in '/home/julian/Documents/J-Point/build/J-Point' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/julian/Documents/J-Point/build/J-Point -- -j12 -l12
+Invoking command in '/home/julian/Documents/J-Point/build/J-Point': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/julian/Documents/J-Point/build/J-Point
+Invoked command in '/home/julian/Documents/J-Point/build/J-Point' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/julian/Documents/J-Point/build/J-Point

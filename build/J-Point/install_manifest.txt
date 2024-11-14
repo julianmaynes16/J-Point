@@ -1,0 +1,15 @@
+/home/julian/Documents/J-Point/install/J-Point/share/ament_index/resource_index/package_run_dependencies/J-Point
+/home/julian/Documents/J-Point/install/J-Point/share/ament_index/resource_index/parent_prefix_path/J-Point
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/environment/ament_prefix_path.sh
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/environment/ament_prefix_path.dsv
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/environment/path.sh
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/environment/path.dsv
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/local_setup.bash
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/local_setup.sh
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/local_setup.zsh
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/local_setup.dsv
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/package.dsv
+/home/julian/Documents/J-Point/install/J-Point/share/ament_index/resource_index/packages/J-Point
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/cmake/J-PointConfig.cmake
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/cmake/J-PointConfig-version.cmake
+/home/julian/Documents/J-Point/install/J-Point/share/J-Point/package.xml

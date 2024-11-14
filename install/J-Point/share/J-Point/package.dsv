@@ -1,0 +1,8 @@
+source;share/J-Point/hook/cmake_prefix_path.ps1
+source;share/J-Point/hook/cmake_prefix_path.dsv
+source;share/J-Point/hook/cmake_prefix_path.sh
+source;share/J-Point/local_setup.bash
+source;share/J-Point/local_setup.dsv
+source;share/J-Point/local_setup.ps1
+source;share/J-Point/local_setup.sh
+source;share/J-Point/local_setup.zsh
