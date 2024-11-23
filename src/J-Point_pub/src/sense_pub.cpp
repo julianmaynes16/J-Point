@@ -3,8 +3,8 @@
 #include "std_msgs/msg/string.hpp"
 #include <sensor_msgs/msg/point_cloud2.hpp>
 #include <sensor_msgs/point_cloud2_iterator.hpp>
-#include <pcl/point_cloud.h>
-#include <pcl/point_types.h>
+//#include <pcl/point_cloud.h>
+//#include <pcl/point_types.h>
 
 using namespace rs2;
 
@@ -86,10 +86,10 @@ class J_Point_Publisher : public rclcpp::Node{
 };
 
 
-int main(){
+int main(int argc, const char* argv[]){
 
     rclcpp::init(argc, argv);
-    rclcpp::spin(std::make_shared<RealSensePublisher>());
+    rclcpp::spin(std::make_shared<J_Point_Publisher>());
     rclcpp::shutdown();
     return 0;
 

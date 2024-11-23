@@ -12,9 +12,21 @@ find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(std_msgs REQUIRED)
 find_package(sensor_msgs REQUIRED)
+
+set(librealsense2_DIR "/opt/ros/humble/lib/x86_64-linux-gnu/cmake/realsense2/")
+
+
+
+
+#find_package(librealsense2 REQUIRED PATHS "/opt/ros/humble/lib/x86_64-linux-gnu/cmake/realsense2/librealsense2Config.cmake")
 find_package(librealsense2 REQUIRED)
 
+
+#target_link_libraries(J-Point_pub PRIVATE realsense2)
+
 add_executable(J-Point_pub src/sense_pub.cpp)
+#target_link_libraries(J-Point_pub rclcpp sensor_msgs realsense2)
+target_link_libraries(J-Point_pub realsense2)
 ament_target_dependencies(J-Point_pub rclcpp std_msgs sensor_msgs librealsense2)
 install(TARGETS
   J-Point_pub
